@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kalpeny.github.io</id>
     <title>Kalpeny</title>
-    <updated>2021-05-16T02:22:30.011Z</updated>
+    <updated>2021-05-16T02:23:24.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kalpeny.github.io"/>
     <link rel="self" href="https://kalpeny.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://kalpeny.github.io/post/chun-spring/">
         </link>
         <updated>2021-05-16T02:18:53.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://kalpeny.github.io/post-images/1621131722697.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://kalpeny.github.io/post-images/1621131780687.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
